@@ -1,0 +1,19 @@
+.pio/
+.pioenvs/
+.piolibdeps/
+.vscode/
+*.code-workspace
+
+# Arduino and local build artifacts
+build/
+*.bin
+*.elf
+*.map
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+*.egg-info/
